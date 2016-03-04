@@ -1,0 +1,67 @@
+/* Empty. Add your own CSS if you like */
+.popover, .popover-arrow:after {
+    height: 105px;
+    background: #898888 !important;
+}
+
+.platform-ios .popover .scroll-content {
+    margin: 0px 0;
+    border-radius: 10px;
+}
+
+.item-content {
+    background: #b7b7b7 !important;
+}
+
+.item-divider {
+    background: #898888 !important;
+    color: white;
+}
+
+.item {
+    margin: 0px !important;
+    border-width: 0px !important;
+}
+
+.scroll-content {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.list {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+ion-side-menu, ion-content {
+    background: #b7b7b7 !important;
+}
+
+.item-body {
+    background: #b7b7b7 !important;
+}
+
+.card {
+    padding: 0px !important;
+    border-radius: 0px !important;
+    background: inherit !important;
+}
+
+li.item {
+    background: #b7b7b7 !important;
+    border-bottom-width: 1px !important;
+    border-color: black !important;
+}
+
+li.pop {
+    color: white !important;
+    background: #898888 !important;
+}
+
+.cabecera {
+    background: #444444 !important;
+}
+
+.titulo {
+    color: white !important;
+}

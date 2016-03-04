@@ -1,0 +1,13 @@
+<ion-view view-title="Peliculas Favoritas" cache-view="false">
+  <ion-content>
+    
+    <ion-list>
+      <ion-item ng-repeat="movie in movies" href="#/app/movies/{{movie.id}}" class="item item-thumbnail-left">
+        <img ng-src="{{baseURL+movie.image}}" alt="{{movie.name}}">
+        <h2>{{movie.name}}</h2>
+        <p>{{movie.synopsis}}</p>
+      </ion-item>
+    </ion-list>
+      
+  </ion-content>
+</ion-view>

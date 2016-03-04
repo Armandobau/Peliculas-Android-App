@@ -1,0 +1,11 @@
+<ion-view view-title="Shows">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="show in shows" href="#/app/shows/{{show.id}}" class="item item-thumbnail-left">
+        <img ng-src="{{baseURL+show.image}}" alt="{{show.name}}">
+        <h2>{{show.name}}</h2>
+        <p>{{show.synopsis}}</p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,896 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Big Fish",
+      "image": "images/peliculas/big.jpg",
+      "jumbotron": "images/jumbotron/big.jpg",
+      "synopsis": "William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una                             enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a                             escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le                           permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre                     mezclados en los relatos de su progenitor.",
+      "comments": [
+        {
+          "rating": "2",
+          "comment": "hola",
+          "author": "armando",
+          "date": "2016-02-29T15:17:41.487Z"
+        },
+        {
+          "rating": "3",
+          "comment": "hola",
+          "author": "pepe",
+          "date": "2016-02-29T15:49:59.764Z"
+        },
+        {
+          "rating": "5",
+          "comment": "adios",
+          "author": "juan",
+          "date": "2016-02-29T15:50:07.918Z"
+        },
+        {
+          "rating": "5",
+          "comment": "mlpmlp",
+          "author": "qazqaz",
+          "date": "2016-03-04T16:55:52.003Z"
+        },
+        {
+          "rating": "1",
+          "comment": "rfvrfv",
+          "author": "edcedc",
+          "date": "2016-03-04T16:58:49.325Z"
+        },
+        {
+          "rating": "1",
+          "comment": "hsbansns",
+          "author": "ajajahaj",
+          "date": "2016-03-04T18:27:03.934Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "El Caballero Oscuro",
+      "image": "images/peliculas/caballero.jpg",
+      "jumbotron": "images/jumbotron/batman.jpg",
+      "synopsis": "Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary                        Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham.                    El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y                        tiene aterrados a los ciudadanos.",
+      "comments": [
+        {
+          "rating": "1",
+          "comment": "lkñajk",
+          "author": "armando",
+          "date": "2016-02-28T19:39:06.911Z"
+        },
+        {
+          "rating": "4",
+          "comment": "asdfas",
+          "author": "lñjlk",
+          "date": "2016-02-28T19:58:02.568Z"
+        },
+        {
+          "rating": "2",
+          "comment": "pepepepepe",
+          "author": "pepe",
+          "date": "2016-02-28T20:07:54.301Z"
+        },
+        {
+          "rating": "1",
+          "comment": "unana",
+          "author": "una",
+          "date": "2016-02-29T15:23:24.685Z"
+        },
+        {
+          "rating": "2",
+          "comment": "dosd",
+          "author": "dos",
+          "date": "2016-02-29T15:23:39.551Z"
+        },
+        {
+          "rating": "3",
+          "comment": "trests",
+          "author": "tres",
+          "date": "2016-02-29T15:23:46.162Z"
+        },
+        {
+          "rating": "4",
+          "comment": "cuatroa",
+          "author": "cuatro",
+          "date": "2016-02-29T15:23:59.009Z"
+        },
+        {
+          "rating": "5",
+          "comment": "cicnocnc",
+          "author": "cinco",
+          "date": "2016-02-29T15:24:05.008Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ciudad De Dios",
+      "image": "images/peliculas/ciudad.jpg",
+      "jumbotron": "images/jumbotron/dios.jpg",
+      "synopsis": "Basada en hechos reales, describe el mundo del crimen organizado en Cidade de Deus, un suburbio de Río de Janeiro, desde finales de                      los sesenta hasta principios de los ochenta, época durante la cual el tráfico de drogas y la violencia impusieron su ley en las                          favelas. A finales de los sesenta, Buscapé, un niño de 11 años tímido y sensible, observa a los niños duros de su barrio, sus robos,                      sus peleas, sus enfrentamientos diarios con la policía. Pero él sabe muy bien lo que quiere ser si consigue sobrevivir: fotógrafo.                        Dadinho, un niño de su edad que se traslada al barrio, sueña con ser el criminal más peligroso de Río de Janeiro y empieza su                            aprendizaje haciendo recados para los delincuentes locales. Admira a Cabeleira y su pandilla, que se dedican a atracar los camiones                      del gas. Un día Cabeleira le da a Dadinho la oportunidad de cometer su primer asesinato.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Intocable",
+      "image": "images/peliculas/intocable.jpg",
+      "jumbotron": "images/jumbotron/intoc.jpg",
+      "synopsis": "Philippe, un aristócrata millonario que se ha quedado tetrapléjico a causa de un accidente de parapente, contrata como cuidador a                        domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque, a primera vista, no parece la persona más                      indicada, los dos acaban logrando que convivan Vivaldi y Earth Wind and Fire, la elocuencia y la hilaridad, los trajes de etiqueta y                      el chándal. Dos mundos enfrentados que, poco a poco, congenian hasta forjar una amistad tan disparatada, divertida y sólida como                          inesperada, una relación única en su especie de la que saltan chispas.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "El Señor De Los Anillos La Comunidad Del Anillo",
+      "image": "images/peliculas/lord1.jpg",
+      "jumbotron": "images/jumbotron/comunidad.jpg",
+      "synopsis": "En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos,                      siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el                    poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un                            peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo                    y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su                      ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "El Señor De Los Anillos Las Dos Torres",
+      "image": "images/peliculas/lord2.jpg",
+      "jumbotron": "images/jumbotron/torres.jpg",
+      "synopsis": "Tras la disolución de la Compañía del Anillo, Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar                   con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el                     enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los orcos de Mordor. Por su parte, Saurón y el traidor                       Sarumán continúan con sus planes en Mordor, a la espera de la guerra contra las razas libres de la Tierra Media.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "El Señor De Los Anillos El Retorno Del Rey",
+      "image": "images/peliculas/lord3.jpg",
+      "jumbotron": "images/jumbotron/rey.jpg",
+      "synopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y,                   por primera vez, parece que hay una pequeña esperanza. El interés del señor oscuro Sauron se centra ahora en Gondor, el último reducto                   de los hombres, cuyo trono será reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto,                       Frodo y Sam continuan su camino hacia Mordor, con la esperanza de llegar al Monte del Destino.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Million Dollar Baby",
+      "image": "images/peliculas/million.jpg",
+      "jumbotron": "images/jumbotron/baby.jpg",
+      "synopsis": "Después de haber entrenado y representado a los mejores púgiles, Frankie Dunn (Eastwood) regenta un gimnasio con la ayuda de Scrap                       (Freeman), un ex-boxeador que es además su único amigo. Frankie es un hombre solitario y adusto que se refugia desde hace años en la                     religión buscando una redención que no llega. Un día, entra en su gimnasio Maggie Fitzgerald (Hilary Swank), una voluntariosa chica que                   quiere boxear y que está dispuesta a luchar denodadamente para conseguirlo. Pero lo que más desea y necesita es que alguien crea en                       ella. Frankie la rechaza alegando que él no entrena chicas y que, además, es demasiado mayor. Pero Maggie no se rinde y se machaca cada                   día en el gimnasio, con el único apoyo de Scrap. Finalmente, convencido de la inquebrantable determinación de Maggie, Frankie decide                     entrenarla. ",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mystic River",
+      "image": "images/peliculas/mystic.jpg",
+      "jumbotron": "images/jumbotron/river.jpg",
+      "synopsis": "Cuando Jimmy Markum (Sean Penn), Dave Boyle (Tim Robbins) y Sean Devine (Kevin Bacon) eran unos niños que crecían juntos en un                           peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para                   siempre su vida y la de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie (Emmy Rossum),                     la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en                   su desesperación, está intentando tomarse la justicia por su mano. ",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Origen",
+      "image": "images/peliculas/origen.jpg",
+      "jumbotron": "images/jumbotron/inception.jpg",
+      "synopsis": "Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. La extraña                        habilidad de Cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo                    y, por consiguiente, a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo                            contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin                    embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo                    Cobb podrá descubrir. ",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "El Pianista",
+      "image": "images/peliculas/pianista.jpg",
+      "jumbotron": "images/jumbotron/pianist.jpg",
+      "synopsis": "Wladyslaw Szpilman, un brillante pianista polaco de origen judío, vive con su familia en el ghetto de Varsovia. Cuando, en 1939, los                     alemanes invaden Polonia, consigue evitar la deportación gracias a la ayuda de algunos amigos. Pero tendrá que vivir escondido y                         completamente aislado durante mucho tiempo, y para sobrevivir tendrá que afrontar constantes peligros.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Snatch Cerdos Y Diamantes",
+      "image": "images/peliculas/snatch.jpg",
+      "jumbotron": "images/jumbotron/snatch.jpg",
+      "synopsis": "Franky es un ladrón de diamantes que tiene que entregar un valioso ejemplar a su jefe Avi, pero, antes de hacerlo, se deja convencer                     por un tal Boris para apostar en un combate ilegal de boxeo. En realidad, se trata de una trampa para arrebatarle el diamante. Cuando                     Avi se entera, contrata a Tony para encontrar a Franky y al diamante. Descubierto el triste destino de Franky, la recuperación de la                     gema desaparecida provoca una situación caótica, donde el engaño, el chantaje y el fraude se mezclan de forma sangrienta con perros,                     diamantes, boxeadores y gran variedad de armas.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Gran Torino",
+      "image": "images/peliculas/torino.jpg",
+      "jumbotron": "images/jumbotron/gran.jpg",
+      "synopsis": "Walt Kowalski (Clint Eastwood), un veterano de la guerra de Corea (1950-1953), es un obrero jubilado del sector del automóvil que ha                     enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y                   cascarrabias, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor, especialmente la llegada de multitud de                       inmigrantes asiáticos a su barrio. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Toy Story",
+      "image": "images/peliculas/toy.jpg",
+      "jumbotron": "images/jumbotron/toy.jpg",
+      "synopsis": "Cuando su dueño Andy se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes                         comienzan a preocuparse por su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie                           conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el principio de una serie de trepidantes                   y divertidas aventuras.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Up",
+      "favorite": true,
+      "image": "images/peliculas/up.jpg",
+      "jumbotron": "images/jumbotron/up.jpg",
+      "synopsis": "Carl Fredricksen es un viudo vendedor de globos de 78 años que, finalmente, consigue llevar a cabo el sueño de su vida: enganchar                        miles de globos a su casa y salir volando rumbo a América del Sur. Pero ya estando en el aire y sin posibilidad de retornar Carl                          descubre que viaja acompañado de Russell, un explorador que tiene ocho años y un optimismo a prueba de bomba.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    }
+  ],
+  "shows": [
+    {
+      "id": 1,
+      "name": "Breaking Bad",
+      "image": "images/series/break.jpg",
+      "jumbotron": "images/jumbotron/bad.jpg",
+      "synopsis": "Tras cumplir 50 años, Walter White (Bryan Cranston), un profesor de química de un instituto de Albuquerque, Nuevo México, se entera de                   que tiene un cáncer de pulmón incurable. Casado con Skyler (Anna Gunn) y con un hijo discapacitado (RJ Mitte), la brutal noticia lo                       impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno (Aaron Paul), fabricar anfetaminas y ponerlas a                     la venta. Lo que pretende es liberar a su familia de problemas económicos cuando se produzca el fatal desenlace.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": "4",
+          "comment": "hola",
+          "author": "armando",
+          "date": "2016-02-29T15:18:11.908Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cosmos",
+      "image": "images/series/cosmos.jpg",
+      "jumbotron": "images/jumbotron/cosmos.jpg",
+      "synopsis": "Más de 30 años después de que Carl Sagan buscase los límites del universo y del hombre a través de la ciencia, COSMOS: A SPACE-TIME                      ODYSSEY propone un nuevo viaje hacia las estrellas. Presentado por el prestigioso astrofísico Neil deGrasse Tyson, esta continuación                      explora cómo descubrimos las leyes de la naturaleza y encontramos nuestro lugar en el tiempo y el espacio. ",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": "5",
+          "comment": "wsx",
+          "author": "qaz",
+          "date": "2016-03-04T17:02:31.290Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Juego De Tronos",
+      "image": "images/series/game.jpg",
+      "jumbotron": "images/jumbotron/game.jpg",
+      "synopsis": "La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales:                    la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro, la                        creciente amenaza de los Otros, seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de                            Poniente, y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende                      regresar a Poniente para reclamar sus derechos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos.                    Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon en Desembarco                    del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá                    en peligro su vida y la de todos los suyos. Mientras tanto diversas facciones conspiran con un solo objetivo: apoderarse del trono.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Planeta Tierra",
+      "image": "images/series/planet.jpg",
+      "jumbotron": "images/jumbotron/planet.jpg",
+      "synopsis": "Aclamada serie de documentales creada por la BBC que nos muestra, en 11 episodios escritos por el prestigioso naturalista David                          Attenborough, la belleza de nuestro enorme planeta con imágenes nunca antes vistas.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "True Detective",
+      "image": "images/series/true.jpg",
+      "jumbotron": "images/jumbotron/true.jpg",
+      "synopsis": "Dos detectives de Lousiana, Rust Cohle (Matthew McConaughey) y Martin Hart (Woody Harrelson), vuelven a investigar el difícil caso de                    un asesino en serie en el que ya habían trabajado. Obligados a regresar a un mundo tan siniestro, el avance de la investigación y el                      mayor conocimiento mutuo les enseñan que la oscuridad reside a ambos lados de la ley. ",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Wire",
+      "image": "images/series/wire.jpg",
+      "jumbotron": "images/jumbotron/wire.jpg",
+      "synopsis": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas. Un policía es el encargado de                       detener a los miembros de un importante cártel. La corrupción policial, las frágiles lealtades dentro de los cárteles y la miseria                       vinculada al narcotráfico son algunos de los problemas denunciados en esta serie. Parece inspirarse en series modernas como 'Los                         Soprano' y en clásicos como 'Policías de Nueva York (NYPD Blue)'. El creador de la serie fue, durante años, reportero de la crónica                       negra de Baltimore, y uno de los coguionistas fue policía en la misma ciudad.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "id": 5,
+      "name": "El Señor De Los Anillos La Comunidad Del Anillo",
+      "image": "images/peliculas/lord1.jpg",
+      "jumbotron": "images/jumbotron/comunidad.jpg",
+      "synopsis": "En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos,                      siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el                    poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un                            peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo                    y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su                      ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "El Señor De Los Anillos Las Dos Torres",
+      "image": "images/peliculas/lord2.jpg",
+      "jumbotron": "images/jumbotron/torres.jpg",
+      "synopsis": "Tras la disolución de la Compañía del Anillo, Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar                   con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el                     enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los orcos de Mordor. Por su parte, Saurón y el traidor                       Sarumán continúan con sus planes en Mordor, a la espera de la guerra contra las razas libres de la Tierra Media.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "El Señor De Los Anillos El Retorno Del Rey",
+      "image": "images/peliculas/lord3.jpg",
+      "jumbotron": "images/jumbotron/rey.jpg",
+      "synopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y,                   por primera vez, parece que hay una pequeña esperanza. El interés del señor oscuro Sauron se centra ahora en Gondor, el último reducto                   de los hombres, cuyo trono será reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto,                       Frodo y Sam continuan su camino hacia Mordor, con la esperanza de llegar al Monte del Destino.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Big Fish",
+      "image": "images/peliculas/big.jpg",
+      "jumbotron": "images/jumbotron/big.jpg",
+      "synopsis": "William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una                             enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a                             escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le                           permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre                     mezclados en los relatos de su progenitor.",
+      "comments": [
+        {
+          "rating": "2",
+          "comment": "hola",
+          "author": "armando",
+          "date": "2016-02-29T15:17:41.487Z"
+        },
+        {
+          "rating": "3",
+          "comment": "hola",
+          "author": "pepe",
+          "date": "2016-02-29T15:49:59.764Z"
+        },
+        {
+          "rating": "5",
+          "comment": "adios",
+          "author": "juan",
+          "date": "2016-02-29T15:50:07.918Z"
+        },
+        {
+          "rating": "5",
+          "comment": "mlpmlp",
+          "author": "qazqaz",
+          "date": "2016-03-04T16:55:52.003Z"
+        },
+        {
+          "rating": "1",
+          "comment": "rfvrfv",
+          "author": "edcedc",
+          "date": "2016-03-04T16:58:49.325Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "El Caballero Oscuro",
+      "image": "images/peliculas/caballero.jpg",
+      "jumbotron": "images/jumbotron/batman.jpg",
+      "synopsis": "Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary                        Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham.                    El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y                        tiene aterrados a los ciudadanos.",
+      "comments": [
+        {
+          "rating": "1",
+          "comment": "lkñajk",
+          "author": "armando",
+          "date": "2016-02-28T19:39:06.911Z"
+        },
+        {
+          "rating": "4",
+          "comment": "asdfas",
+          "author": "lñjlk",
+          "date": "2016-02-28T19:58:02.568Z"
+        },
+        {
+          "rating": "2",
+          "comment": "pepepepepe",
+          "author": "pepe",
+          "date": "2016-02-28T20:07:54.301Z"
+        },
+        {
+          "rating": "1",
+          "comment": "unana",
+          "author": "una",
+          "date": "2016-02-29T15:23:24.685Z"
+        },
+        {
+          "rating": "2",
+          "comment": "dosd",
+          "author": "dos",
+          "date": "2016-02-29T15:23:39.551Z"
+        },
+        {
+          "rating": "3",
+          "comment": "trests",
+          "author": "tres",
+          "date": "2016-02-29T15:23:46.162Z"
+        },
+        {
+          "rating": "4",
+          "comment": "cuatroa",
+          "author": "cuatro",
+          "date": "2016-02-29T15:23:59.009Z"
+        },
+        {
+          "rating": "5",
+          "comment": "cicnocnc",
+          "author": "cinco",
+          "date": "2016-02-29T15:24:05.008Z"
+        }
+      ]
+    }
+  ],
+  "favorites2": [
+    {
+      "id": 2,
+      "name": "Cosmos",
+      "image": "images/series/cosmos.jpg",
+      "jumbotron": "images/jumbotron/cosmos.jpg",
+      "synopsis": "Más de 30 años después de que Carl Sagan buscase los límites del universo y del hombre a través de la ciencia, COSMOS: A SPACE-TIME                      ODYSSEY propone un nuevo viaje hacia las estrellas. Presentado por el prestigioso astrofísico Neil deGrasse Tyson, esta continuación                      explora cómo descubrimos las leyes de la naturaleza y encontramos nuestro lugar en el tiempo y el espacio. ",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Juego De Tronos",
+      "image": "images/series/game.jpg",
+      "jumbotron": "images/jumbotron/game.jpg",
+      "synopsis": "La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales:                    la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro, la                        creciente amenaza de los Otros, seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de                            Poniente, y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende                      regresar a Poniente para reclamar sus derechos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos.                    Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon en Desembarco                    del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá                    en peligro su vida y la de todos los suyos. Mientras tanto diversas facciones conspiran con un solo objetivo: apoderarse del trono.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Planeta Tierra",
+      "image": "images/series/planet.jpg",
+      "jumbotron": "images/jumbotron/planet.jpg",
+      "synopsis": "Aclamada serie de documentales creada por la BBC que nos muestra, en 11 episodios escritos por el prestigioso naturalista David                          Attenborough, la belleza de nuestro enorme planeta con imágenes nunca antes vistas.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Comentario1Comentario1Comentario1",
+          "author": "Autor1",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Comentario2Comentario2",
+          "author": "Autor2",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Comentario3Comentario3Comenterio3",
+          "author": "Autor3",
+          "date": "2015-02-13T17:57:28.556094Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<ion-view view-title="Inicio">
+  <ion-content>
+    <ion-list>
+      <div class="item item-divider">
+        Ultimas Peliculas
+      </div>
+      <ion-item ng-repeat="movie in movies" href="#/app/movies/{{movie.id}}" class="item item-thumbnail-left">
+        <img ng-src="{{baseURL+movie.image}}" alt="{{movie.name}}">
+        <h2>{{movie.name}}</h2>
+        <p>{{movie.synopsis}}</p>
+      </ion-item>
+    </ion-list>
+    <ion-list>
+      <div class="item item-divider">
+        Ultimas Series
+      </div>
+      <ion-item ng-repeat="show in shows" href="#/app/shows/{{show.id}}" class="item item-thumbnail-left">
+        <img ng-src="{{baseURL+show.image}}" alt="{{show.name}}">
+        <h2>{{show.name}}</h2>
+        <p>{{show.synopsis}}</p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
